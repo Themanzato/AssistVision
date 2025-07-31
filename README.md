@@ -1,16 +1,59 @@
-# flutter_application_1
+# 🧠 Assist Vision
 
-A new Flutter project.
+**Assist Vision** es una aplicación móvil desarrollada con Flutter e inteligencia artificial, diseñada para ayudar a personas con discapacidad visual a reconocer billetes y colores en tiempo real utilizando la cámara del dispositivo.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Características principales
 
-A few resources to get you started if this is your first Flutter project:
+- 📷 Detección en tiempo real de colores y billetes mexicanos.
+- 🎙️ Retroalimentación por voz usando Text-to-Speech.
+- 💡 Interfaz accesible y fácil de usar.
+- 🤖 Integración con modelos de IA entrenados con TensorFlow Lite y YOLO.
+- 🔧 Implementación nativa en Flutter + Dart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tecnologías utilizadas
+
+- **Flutter / Dart**
+- **TensorFlow Lite**
+- **YOLO**
+- **Visual Studio Code**
+- **Text-to-Speech**
+- **Android SDK**
+
+---
+
+## 🏆 Reconocimientos
+
+- 🥇 Ganador local en *INNOVATECNM 2024* (Xalapa, Ver.)
+- 🥈 2º lugar regional (Tehuacán, Puebla)
+- 🏅 Finalista nacional (Colima)
+
+---
+
+## 📱 Instalación y uso
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/Themanzato/AssistVision.git
+   ```
+
+2. Instala las dependencias:
+   ```bash
+   flutter pub get
+   ```
+
+3. Ejecuta la aplicación:
+   ```bash
+   flutter run
+   ```
+
+## 🤝 Contribuir
+
+Las contribuciones son bienvenidas. Por favor, abre un issue primero para discutir los cambios que te gustaría hacer.
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
